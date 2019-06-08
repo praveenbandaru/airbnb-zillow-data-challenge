@@ -1,0 +1,14 @@
+name: capitalone
+channels:
+    - https://conda.anaconda.org/menpo
+    - conda-forge
+dependencies:
+    - python
+    - numpy
+    - matplotlib
+    - jupyter
+    - scikit-learn
+    - scipy
+    - seaborn
+    - pandas
+    - geopandas
